@@ -6,6 +6,6 @@ class ParserVseInstr:
         pass
 
     def run(self):
-        search_phrase = 'фотон'
+        search_phrase = 'ергия pro'
         get_search_data = SearchLinkCollector(search_phrase)
         get_search_data.run()
